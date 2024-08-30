@@ -1,3 +1,1 @@
 streamlit
---startuptype=custom
---customStartupCmd=streamlit run streamlit_test.py
